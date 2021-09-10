@@ -6,41 +6,43 @@
   </h1>
 </p>
 
+## Executing
+```
+go run .\main.go --help
+```
+
 ## Creational Patterns
 
-|Pattern|Code|Status|
-|:------|:--:|-----:|
-| [Abstract Factory](/creational/abstract_factory/README.md) | [Go](/creational/abstract_factory) | ✔ |
-| Builder | ✘ | ✘ |
-| Factory Method | ✘ | ✘ |
-| Object Pool | ✘ | ✘ |
-| Singleton | ✘ | ✘ |
-| <img width=150/> | <img width=50/> | <img width=50/> |
+|Pattern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Status|
+|:------|:----:|
+| [Abstract Factory](/creational/abstract_factory) | ✔ |
+| Builder | ✘ |
+| Factory Method | ✘ |
+| Object Pool | ✘ |
+| Singleton | ✘ |
 
 ## Structural Patterns
 
-|Pattern|Code|Status|
-|:------|:--:|-----:|
-| Bridge | ✘  | ✘ |
-| Composite | ✘  | ✘ |
-| Decorator | ✘  | ✘ |
-| Facade | ✘  | ✘ |
-| Flyweight | ✘  | ✘ |
-| Proxy | ✘  | ✘ |
-| <img width=150/> | <img width=50/> | <img width=50/> |
+|Pattern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Status|
+|:------|:----:|
+| Bridge | ✘  |
+| Composite | ✘  |
+| Decorator | ✘  |
+| Facade | ✘  |
+| Flyweight | ✘  |
+| Proxy | ✘  |
 
 ## Behavioral Patterns
 
-|Pattern|Code|Status|
-|:------|:--:|-----:|
-| Chain of Responsibility | ✘ | ✘ |
-| Command | ✘  | ✘ |
-| Mediator | ✘ | ✘ |
-| Memento | ✘ | ✘ |
-| Observer | ✘ | ✘ |
-| Registry | ✘ | ✘ |
-| State | ✘  | ✘ |
-| Strategy | ✘ | ✘ |
-| Template | ✘ | ✘ |
-| Visitor | ✘ | ✘ |
-| <img width=150/> | <img width=50/> |
+|Pattern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|Status|
+|:------|:----:|
+| Chain of Responsibility | ✘ |
+| Command | ✘  |
+| Mediator | ✘ |
+| Memento | ✘ |
+| Observer | ✘ |
+| Registry | ✘ |
+| State | ✘  |
+| Strategy | ✘ |
+| Template | ✘ |
+| Visitor | ✘ |
