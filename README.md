@@ -3,6 +3,8 @@
     Go Design Patterns
     <br>
     <a href="https://opensource.org/licenses/Apache-2.0" ><img alt="license" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" /></a>
+    <a href="https://codecov.io/gh/r-c-correa/go-design-patterns" ><img alt="codecov" src="https://codecov.io/gh/r-c-correa/go-design-patterns/branch/main/graph/badge.svg" /></a>
+    <a href="https://sonarcloud.io/dashboard?id=r-c-correa_go-design-patterns" ><img alt="Sonarqube" src="https://sonarcloud.io/api/project_badges/measure?project=r-c-correa_go-design-patterns&metric=alert_status" /></a>
   </h1>
 </p>
 
